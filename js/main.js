@@ -12,35 +12,35 @@
 
     let cards = [
         {
-            name: "beer",
+            name: "card1",
             img: "<img src='./img/ (1).jpeg'>",
         },
         {
-            name: "bdsm",
+            name: "card2",
             img: "<img src='./img/ (2).jpeg'>",
         },
         {
-            name: "plackart",
+            name: "card3",
             img: "<img src='./img/ (3).jpeg'>",
         },
         {
-            name: "sapog",
+            name: "card4",
             img: "<img src='./img/ (4).jpeg'>",
         },
         {
-            name: "pososije",
+            name: "card5",
             img: "<img src='./img/ (5).jpeg'>",
         },
         {
-            name: "sloboda",
+            name: "card6",
             img: "<img src='./img/ (6).jpeg'>",
         },
         {
-            name: "pcela",
+            name: "card7",
             img: "<img src='./img/ (7).jpeg'>",
         },
         {
-            name: "tadziki",
+            name: "card8",
             img: "<img src='./img/ (8).jpeg'>",
         },
     ];
